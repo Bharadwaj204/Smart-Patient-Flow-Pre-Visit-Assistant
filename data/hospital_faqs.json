@@ -1,0 +1,50 @@
+[
+  {
+    "question": "What documents do I need to bring for my visit?",
+    "answer": "Please bring a valid photo ID, your insurance card, and any previous medical records or test results related to your condition. If you're a new patient, also bring a list of current medications and allergies.",
+    "category": "general",
+    "keywords": ["documents", "ID", "insurance", "medical records"]
+  },
+  {
+    "question": "How early should I arrive for my appointment?",
+    "answer": "Please arrive 15-30 minutes before your scheduled appointment time. This allows time for check-in, insurance verification, and completion of any necessary paperwork.",
+    "category": "general",
+    "keywords": ["arrival time", "check-in", "appointment"]
+  },
+  {
+    "question": "What insurance plans do you accept?",
+    "answer": "We accept most major insurance plans including Blue Cross Blue Shield, Aetna, Cigna, UnitedHealthcare, Medicare, and Medicaid. Please call to verify your specific plan.",
+    "category": "insurance",
+    "keywords": ["insurance", "Blue Cross", "Aetna", "Cigna", "Medicare"]
+  },
+  {
+    "question": "Can I schedule same-day appointments?",
+    "answer": "Yes, we offer same-day appointments based on availability. For urgent care needs, we prioritize same-day scheduling. Emergency cases are seen immediately.",
+    "category": "scheduling",
+    "keywords": ["same-day", "urgent care", "emergency", "scheduling"]
+  },
+  {
+    "question": "What should I do if I'm experiencing chest pain?",
+    "answer": "Chest pain can be serious. If you're experiencing severe chest pain, shortness of breath, or pain radiating to your arm or jaw, seek immediate emergency care or call 911. For mild chest discomfort, consider scheduling with our Cardiology department.",
+    "category": "emergency",
+    "keywords": ["chest pain", "emergency", "cardiology", "911"]
+  },
+  {
+    "question": "How do I prepare for blood work?",
+    "answer": "Fasting requirements depend on the specific tests ordered. Generally, fast for 8-12 hours for cholesterol and glucose tests. Drink plenty of water unless instructed otherwise. Bring your lab order form and insurance card.",
+    "category": "lab",
+    "keywords": ["blood work", "fasting", "lab tests", "preparation"]
+  },
+  {
+    "question": "What are your visiting hours?",
+    "answer": "Our main hospital is open 24/7 for emergencies. Outpatient clinics operate Monday-Friday 7:00 AM to 7:00 PM, Saturday 8:00 AM to 4:00 PM. Some specialty clinics have different hours.",
+    "category": "general",
+    "keywords": ["hours", "visiting", "emergency", "outpatient"]
+  },
+  {
+    "question": "Can family members accompany me?",
+    "answer": "Yes, one family member or support person may accompany you to most appointments. For certain procedures or in emergency situations, restrictions may apply for safety reasons.",
+    "category": "general",
+    "keywords": ["family", "companion", "support person", "restrictions"]
+  }
+]

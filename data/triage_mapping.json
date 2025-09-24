@@ -1,0 +1,92 @@
+[
+  {
+    "symptoms": ["severe chest pain", "crushing chest pain", "chest pain with shortness of breath"],
+    "urgency_level": "EMERGENCY",
+    "recommended_department": "Emergency Department",
+    "triage_priority": 1,
+    "estimated_wait": "0-5 minutes",
+    "next_steps": "Seek immediate emergency care or call 911",
+    "warning_signs": ["pain radiating to arm or jaw", "sweating", "nausea", "lightheadedness"]
+  },
+  {
+    "symptoms": ["mild chest discomfort", "chest tightness", "intermittent chest pain"],
+    "urgency_level": "URGENT",
+    "recommended_department": "Cardiology",
+    "triage_priority": 2,
+    "estimated_wait": "5-20 minutes",
+    "next_steps": "Schedule same-day cardiology appointment",
+    "warning_signs": ["worsening pain", "new shortness of breath", "dizziness"]
+  },
+  {
+    "symptoms": ["difficulty breathing", "severe shortness of breath", "cannot speak in full sentences"],
+    "urgency_level": "EMERGENCY",
+    "recommended_department": "Emergency Department",
+    "triage_priority": 1,
+    "estimated_wait": "0-10 minutes",
+    "next_steps": "Seek immediate emergency care",
+    "warning_signs": ["blue lips or fingernails", "confusion", "severe anxiety"]
+  },
+  {
+    "symptoms": ["fever over 103°F", "high fever with confusion", "fever with stiff neck"],
+    "urgency_level": "EMERGENCY",
+    "recommended_department": "Emergency Department",
+    "triage_priority": 1,
+    "estimated_wait": "0-15 minutes",
+    "next_steps": "Seek immediate emergency care",
+    "warning_signs": ["severe headache", "rash", "difficulty staying awake"]
+  },
+  {
+    "symptoms": ["fever", "mild fever", "low-grade fever"],
+    "urgency_level": "URGENT",
+    "recommended_department": "Urgent Care",
+    "triage_priority": 3,
+    "estimated_wait": "15-45 minutes",
+    "next_steps": "Visit urgent care or schedule same-day appointment",
+    "warning_signs": ["fever rising", "severe symptoms developing", "dehydration"]
+  },
+  {
+    "symptoms": ["joint pain", "arthritis pain", "back pain"],
+    "urgency_level": "ROUTINE",
+    "recommended_department": "Orthopedics",
+    "triage_priority": 4,
+    "estimated_wait": "10-30 minutes",
+    "next_steps": "Schedule appointment within 1-2 weeks",
+    "warning_signs": ["severe pain", "numbness", "inability to move joint"]
+  },
+  {
+    "symptoms": ["skin rash", "new mole", "skin changes"],
+    "urgency_level": "ROUTINE",
+    "recommended_department": "Dermatology",
+    "triage_priority": 4,
+    "estimated_wait": "10-20 minutes",
+    "next_steps": "Schedule appointment within 2-4 weeks",
+    "warning_signs": ["rapidly changing mole", "bleeding", "ulceration"]
+  },
+  {
+    "symptoms": ["routine checkup", "physical exam", "preventive care"],
+    "urgency_level": "ROUTINE",
+    "recommended_department": "Internal Medicine",
+    "triage_priority": 5,
+    "estimated_wait": "8-25 minutes",
+    "next_steps": "Schedule appointment within 4-6 weeks",
+    "warning_signs": ["new symptoms developing", "chronic condition worsening"]
+  },
+  {
+    "symptoms": ["minor cuts", "flu symptoms", "cold symptoms"],
+    "urgency_level": "URGENT",
+    "recommended_department": "Urgent Care",
+    "triage_priority": 3,
+    "estimated_wait": "15-45 minutes",
+    "next_steps": "Visit urgent care same day",
+    "warning_signs": ["worsening symptoms", "signs of infection", "dehydration"]
+  },
+  {
+    "symptoms": ["severe injury", "broken bone", "deep cut"],
+    "urgency_level": "EMERGENCY",
+    "recommended_department": "Emergency Department",
+    "triage_priority": 1,
+    "estimated_wait": "0-10 minutes",
+    "next_steps": "Seek immediate emergency care",
+    "warning_signs": ["heavy bleeding", "bone visible", "loss of function"]
+  }
+]

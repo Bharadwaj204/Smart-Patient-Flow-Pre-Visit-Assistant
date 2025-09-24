@@ -1,0 +1,82 @@
+[
+  {
+    "department": "Emergency Department",
+    "description": "24/7 emergency medical care for life-threatening conditions",
+    "typical_conditions": ["chest pain", "severe injury", "difficulty breathing", "stroke symptoms", "severe bleeding", "loss of consciousness"],
+    "wait_time_estimate": "0-15 minutes",
+    "required_documents": ["photo ID", "insurance card"],
+    "preparation": "Come immediately for emergencies. Bring all current medications and medical history if possible.",
+    "insurance_notes": "All major insurance accepted. Emergency care provided regardless of insurance status.",
+    "contact": "911 or walk-in"
+  },
+  {
+    "department": "Cardiology",
+    "description": "Heart and cardiovascular system care",
+    "typical_conditions": ["chest pain", "heart palpitations", "high blood pressure", "heart murmur", "shortness of breath"],
+    "wait_time_estimate": "5-20 minutes",
+    "required_documents": ["photo ID", "insurance card", "previous EKGs or cardiac tests", "medication list"],
+    "preparation": "Fast for 4 hours if stress test is planned. Wear comfortable clothes and avoid caffeine.",
+    "insurance_notes": "Most insurance plans accepted. Pre-authorization may be required for some procedures.",
+    "contact": "appointment required"
+  },
+  {
+    "department": "Internal Medicine",
+    "description": "Primary care for adults, chronic disease management",
+    "typical_conditions": ["routine checkup", "diabetes", "hypertension", "general illness", "preventive care"],
+    "wait_time_estimate": "8-25 minutes",
+    "required_documents": ["photo ID", "insurance card", "medication list", "previous test results"],
+    "preparation": "Bring list of medications, symptoms diary if applicable, questions for doctor.",
+    "insurance_notes": "All major insurance plans accepted. Annual wellness visits covered.",
+    "contact": "appointment required"
+  },
+  {
+    "department": "Orthopedics",
+    "description": "Bone, joint, and musculoskeletal system care",
+    "typical_conditions": ["joint pain", "fractures", "sports injuries", "back pain", "arthritis"],
+    "wait_time_estimate": "10-30 minutes",
+    "required_documents": ["photo ID", "insurance card", "X-rays or MRI results", "injury details"],
+    "preparation": "Wear loose, comfortable clothing. Bring details about injury or pain onset.",
+    "insurance_notes": "Most insurance accepted. Physical therapy may require pre-authorization.",
+    "contact": "appointment required"
+  },
+  {
+    "department": "Urgent Care",
+    "description": "Non-emergency acute care for immediate medical needs",
+    "typical_conditions": ["minor injuries", "flu symptoms", "infections", "minor burns", "urgent prescriptions"],
+    "wait_time_estimate": "15-45 minutes",
+    "required_documents": ["photo ID", "insurance card"],
+    "preparation": "Bring symptom history and current medications. Consider telehealth for minor issues.",
+    "insurance_notes": "Most insurance accepted. Lower copay than emergency department.",
+    "contact": "walk-in or same-day appointment"
+  },
+  {
+    "department": "Dermatology",
+    "description": "Skin, hair, and nail conditions",
+    "typical_conditions": ["skin rash", "moles", "acne", "skin cancer screening", "hair loss"],
+    "wait_time_estimate": "10-20 minutes",
+    "required_documents": ["photo ID", "insurance card", "photos of skin conditions"],
+    "preparation": "Avoid makeup or lotions on affected areas. Document changes in moles or lesions.",
+    "insurance_notes": "Most insurance accepted. Cosmetic procedures typically not covered.",
+    "contact": "appointment required"
+  },
+  {
+    "department": "Laboratory Services",
+    "description": "Diagnostic testing and blood work",
+    "typical_conditions": ["blood tests", "urine analysis", "cultures", "genetic testing"],
+    "wait_time_estimate": "5-15 minutes",
+    "required_documents": ["photo ID", "insurance card", "lab order from physician"],
+    "preparation": "Follow fasting instructions if required. Stay hydrated unless told otherwise.",
+    "insurance_notes": "Most insurance accepted. Some tests may require pre-authorization.",
+    "contact": "walk-in with order or appointment"
+  },
+  {
+    "department": "Radiology",
+    "description": "Medical imaging including X-rays, CT scans, MRI",
+    "typical_conditions": ["diagnostic imaging", "X-rays", "CT scans", "MRI", "ultrasound"],
+    "wait_time_estimate": "10-30 minutes",
+    "required_documents": ["photo ID", "insurance card", "imaging order", "previous films"],
+    "preparation": "Follow specific prep instructions. Remove metal objects. Inform of pregnancy possibility.",
+    "insurance_notes": "Most insurance accepted. Advanced imaging may require pre-authorization.",
+    "contact": "appointment required"
+  }
+]

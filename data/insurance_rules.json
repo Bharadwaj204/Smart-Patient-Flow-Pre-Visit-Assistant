@@ -1,0 +1,110 @@
+[
+  {
+    "insurance_provider": "Blue Cross Blue Shield",
+    "accepted": true,
+    "copay_emergency": "$150",
+    "copay_urgent_care": "$50",
+    "copay_specialist": "$40",
+    "copay_primary_care": "$25",
+    "deductible_info": "Varies by plan",
+    "prior_auth_required": ["MRI", "CT with contrast", "specialty procedures"],
+    "coverage_notes": "Excellent coverage for most services. Annual wellness visits covered at 100%.",
+    "verification_phone": "1-800-BCBS-123"
+  },
+  {
+    "insurance_provider": "Aetna",
+    "accepted": true,
+    "copay_emergency": "$200",
+    "copay_urgent_care": "$60",
+    "copay_specialist": "$45",
+    "copay_primary_care": "$30",
+    "deductible_info": "High deductible plans common",
+    "prior_auth_required": ["advanced imaging", "physical therapy over 12 visits"],
+    "coverage_notes": "Good coverage. Telehealth visits covered. Preventive care at no cost.",
+    "verification_phone": "1-800-AETNA-01"
+  },
+  {
+    "insurance_provider": "Cigna",
+    "accepted": true,
+    "copay_emergency": "$175",
+    "copay_urgent_care": "$55",
+    "copay_specialist": "$35",
+    "copay_primary_care": "$25",
+    "deductible_info": "Moderate deductibles",
+    "prior_auth_required": ["elective surgeries", "expensive medications"],
+    "coverage_notes": "Strong network coverage. Mental health services well covered.",
+    "verification_phone": "1-800-CIGNA-24"
+  },
+  {
+    "insurance_provider": "UnitedHealthcare",
+    "accepted": true,
+    "copay_emergency": "$250",
+    "copay_urgent_care": "$75",
+    "copay_specialist": "$50",
+    "copay_primary_care": "$35",
+    "deductible_info": "Varies widely by plan",
+    "prior_auth_required": ["specialty drugs", "durable medical equipment"],
+    "coverage_notes": "Large network. Some plans require referrals for specialists.",
+    "verification_phone": "1-800-UHC-MEMBER"
+  },
+  {
+    "insurance_provider": "Medicare",
+    "accepted": true,
+    "copay_emergency": "20% after deductible",
+    "copay_urgent_care": "20% after deductible",
+    "copay_specialist": "20% after deductible",
+    "copay_primary_care": "$0 for wellness visits",
+    "deductible_info": "$1,600 annual deductible (2024)",
+    "prior_auth_required": ["some durable medical equipment", "certain procedures"],
+    "coverage_notes": "Federal insurance for 65+. Supplemental insurance recommended.",
+    "verification_phone": "1-800-MEDICARE"
+  },
+  {
+    "insurance_provider": "Medicaid",
+    "accepted": true,
+    "copay_emergency": "$0-$5",
+    "copay_urgent_care": "$0-$3",
+    "copay_specialist": "$0-$5",
+    "copay_primary_care": "$0",
+    "deductible_info": "No deductible",
+    "prior_auth_required": ["non-emergency transportation", "certain procedures"],
+    "coverage_notes": "State insurance for low-income individuals. Coverage varies by state.",
+    "verification_phone": "Contact state Medicaid office"
+  },
+  {
+    "insurance_provider": "Kaiser Permanente",
+    "accepted": false,
+    "copay_emergency": "N/A",
+    "copay_urgent_care": "N/A",
+    "copay_specialist": "N/A",
+    "copay_primary_care": "N/A",
+    "deductible_info": "N/A",
+    "prior_auth_required": [],
+    "coverage_notes": "Not accepted - HMO with own facilities. Emergency care covered under reciprocal agreements.",
+    "verification_phone": "1-800-KAISER-1"
+  },
+  {
+    "insurance_provider": "Tricare",
+    "accepted": true,
+    "copay_emergency": "$30",
+    "copay_urgent_care": "$30",
+    "copay_specialist": "$30",
+    "copay_primary_care": "$21",
+    "deductible_info": "$150-$300 depending on plan",
+    "prior_auth_required": ["mental health services", "certain specialty care"],
+    "coverage_notes": "Military insurance. Active duty no copays. Retirees have modest copays.",
+    "verification_phone": "1-800-TRICARE"
+  },
+  {
+    "insurance_provider": "Self-Pay/Uninsured",
+    "accepted": true,
+    "copay_emergency": "$1,200-$3,000",
+    "copay_urgent_care": "$200-$400",
+    "copay_specialist": "$300-$500",
+    "copay_primary_care": "$150-$250",
+    "deductible_info": "N/A",
+    "prior_auth_required": [],
+    "coverage_notes": "Payment plans available. Financial assistance programs for qualifying patients. Prompt pay discounts offered.",
+    "verification_phone": "Contact financial counselor"
+  }
+]

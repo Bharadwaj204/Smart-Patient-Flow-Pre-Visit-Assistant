@@ -1,0 +1,65 @@
+{
+  "hospital_info": {
+    "name": "SuperHealth Medical Center",
+    "mission": "Zero wait times, fixed pricing, patient-first experience",
+    "address": "123 Health Way, Medical City, MC 12345",
+    "phone": "(555) 123-HEALTH",
+    "emergency_phone": "911",
+    "website": "www.superhealth.com"
+  },
+  "operational_hours": {
+    "emergency": "24/7",
+    "urgent_care": "Monday-Sunday 7:00 AM - 11:00 PM",
+    "outpatient_clinics": "Monday-Friday 7:00 AM - 7:00 PM",
+    "weekend_clinics": "Saturday-Sunday 8:00 AM - 4:00 PM",
+    "lab_services": "Monday-Friday 6:00 AM - 8:00 PM, Weekends 8:00 AM - 4:00 PM",
+    "radiology": "Monday-Friday 7:00 AM - 9:00 PM, Weekends 8:00 AM - 6:00 PM"
+  },
+  "general_policies": [
+    {
+      "title": "Arrival Policy",
+      "description": "Patients should arrive 15-30 minutes before scheduled appointments for check-in and insurance verification."
+    },
+    {
+      "title": "ID Requirements",
+      "description": "Valid photo ID required for all visits. Acceptable forms include driver's license, state ID, passport, or military ID."
+    },
+    {
+      "title": "Insurance Verification",
+      "description": "Insurance cards must be presented at each visit. We verify coverage and obtain authorizations as needed."
+    },
+    {
+      "title": "Cancellation Policy",
+      "description": "Appointments must be cancelled at least 24 hours in advance to avoid cancellation fees."
+    },
+    {
+      "title": "Emergency Triage",
+      "description": "Emergency patients are triaged based on severity of condition, not arrival time."
+    },
+    {
+      "title": "Visitor Policy",
+      "description": "One support person allowed per patient. Additional restrictions may apply in certain departments."
+    },
+    {
+      "title": "Payment Policy",
+      "description": "Copays and deductibles due at time of service. Payment plans available for larger amounts."
+    }
+  ],
+  "wait_time_optimization": {
+    "best_times": {
+      "emergency": "Consistently low wait times due to severity-based triage",
+      "urgent_care": "Early morning (7-9 AM) and late evening (9-11 PM)",
+      "primary_care": "Mid-morning (10 AM-12 PM) and mid-afternoon (2-4 PM)",
+      "specialists": "First appointments of the day or right after lunch",
+      "lab_services": "Early morning (6-8 AM) and late afternoon (6-8 PM)",
+      "radiology": "Mid-morning (9-11 AM) and early evening (7-9 PM)"
+    },
+    "busy_times": {
+      "urgent_care": "Evening hours (5-8 PM) and weekends",
+      "primary_care": "Monday mornings and Friday afternoons",
+      "specialists": "Mid-morning and early afternoon",
+      "lab_services": "Mid-morning (9-11 AM)",
+      "radiology": "Afternoon hours (1-5 PM)"
+    }
+  }
+}
