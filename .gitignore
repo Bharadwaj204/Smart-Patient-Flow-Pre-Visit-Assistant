@@ -89,3 +89,6 @@ coverage.xml
 # Documentation builds
 docs/_build/
 site/
+
+# Streamlit
+.streamlit/secrets.toml
