@@ -426,5 +426,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 [⭐ Star this project](../../stargazers) • [🍴 Fork it](../../fork) • [📋 Report issues](../../issues)
 
-</div>#   S m a r t - P a t i e n t - F l o w - P r e - V i s i t - A s s i s t a n t  
- 
+</div>#
