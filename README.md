@@ -5,12 +5,13 @@
 [![Python](https://img.shields.io/badge/Python-3.11+-blue.svg)](https://python.org)
 [![Streamlit](https://img.shields.io/badge/Streamlit-1.28+-red.svg)](https://streamlit.io)
 [![License](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-Streamlit%20Cloud-FF6B6B.svg)](https://bharadwaj204-smart-patient-flow-pre-visit-a-enhanced-app-dq7t0t.streamlit.app/)
 
 **AI-Powered Healthcare Pre-Visit Assistant**
 
 *Zero wait times • Smart triage • Patient-first experience*
 
-[🚀 Quick Start](#-quick-start) • [✨ Features](#-features) • [🎯 Demo](#-demo) • [📖 Docs](#-documentation)
+[🌐 **Try Live Demo**](https://bharadwaj204-smart-patient-flow-pre-visit-a-enhanced-app-dq7t0t.streamlit.app/) | [🚀 Quick Start](#-quick-start) • [✨ Features](#-features) • [🎯 Demo](#-demo) • [📖 Docs](#-documentation)
 
 </div>
 
@@ -84,7 +85,12 @@ cp .env.example .env
 
 ## 🎯 Demo
 
-### Try Different Versions
+### 🌐 **Live Demo**
+🔥 **Try it now**: [**Smart Patient Flow Assistant - Live**](https://bharadwaj204-smart-patient-flow-pre-visit-a-enhanced-app-dq7t0t.streamlit.app/)
+
+*No installation required! Experience the full AI-powered healthcare assistant directly in your browser.*
+
+### Try Different Versions Locally
 
 **🚀 Enhanced App** (Recommended)
 ```bash
